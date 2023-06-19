@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sinthiya
 - 👀 I’m interested in coding, writing and designing
-- 🌱 I’m currently a Front-End Development
 - 📫 How to reach me: sinthiya.islamjuly35@gmail.com 
 
 <!---
